@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: cyan;
+}
+.min{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+   
+   
+}
+.iner{
+    align-items: center!important;
+}
